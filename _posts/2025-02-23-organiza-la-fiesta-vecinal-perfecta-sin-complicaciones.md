@@ -4,6 +4,7 @@ title: Organiza la Fiesta Vecinal Perfecta sin Complicaciones
 subtitle: Cómo asegurar la máxima participación en tu evento comunitario
 tags: [organizacion eventos, fiesta vecinal]
 author: ijoin.app
+language: es
 ---
 
 # La Clave para la Coordinación Vecinal - RSVP Sin Fricción

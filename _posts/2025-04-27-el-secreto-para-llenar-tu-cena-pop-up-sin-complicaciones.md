@@ -4,6 +4,7 @@ title: El Secreto para Llenar tu Cena Pop-up Sin Complicaciones
 subtitle: Cómo organizar eventos exclusivos y gestionar invitados sin pedir un solo login
 tags: [organizacion de eventos, cenas pop-up]
 author: ijoin.app
+language: es
 ---
 # El Secreto para Llenar tu Cena Pop-up Sin Complicaciones
 

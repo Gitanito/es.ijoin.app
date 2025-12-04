@@ -4,6 +4,7 @@ title: Organizar Reuniones de Padres Sin Estrés
 subtitle: La forma más rápida de confirmar asistencia para quedadas espontáneas
 tags: [organizacion eventos, quedadas padres]
 author: ijoin.app
+language: es
 ---
 
 # ¡Adiós a los Grupos de WhatsApp Infinitos!

@@ -4,6 +4,7 @@ title: Organiza Sesiones Skill-Share y Eventos Comunitarios sin Fricción
 subtitle: Maximiza la Asistencia a tus Talleres Locales - Sin Registros Molestos
 tags: [organización de eventos, gestión de asistencia]
 author: ijoin.app
+language: es
 ---
 # Convierte Tu Idea de Taller en un Evento Comunitario Exitoso
 

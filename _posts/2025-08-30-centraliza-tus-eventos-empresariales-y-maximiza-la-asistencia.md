@@ -4,6 +4,7 @@ title: Centraliza tus Eventos Empresariales y Maximiza la Asistencia
 subtitle: La solución definitiva para organizar tu Stammtisch local sin registrarse ni perder tiempo
 tags: [organización de eventos, networking empresarial]
 author: ijoin.app
+language: es
 ---
 
 # La Fórmula Secreta para un Stammtisch de Éxito- Menos Fricción, Más Conexión

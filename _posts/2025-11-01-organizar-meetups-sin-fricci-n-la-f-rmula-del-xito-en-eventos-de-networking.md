@@ -4,6 +4,7 @@ title: Organizar Meetups Sin Fricción- La Fórmula del Éxito en Eventos de Net
 subtitle: Maximiza la Asistencia a tu Próximo Encuentro de Negocios o Gremial
 tags: [eventos networking, organización meetups]
 author: ijoin.app
+language: es
 ---
 
 # Organizar Meetups Sin Fricción: La Fórmula del Éxito en Eventos de Networking

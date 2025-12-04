@@ -4,6 +4,7 @@ title: Organiza tu próxima ruta de senderismo sin el caos del chat grupal
 subtitle: Confirmaciones instantáneas y sin registro para tus eventos de grupo
 tags: [organización de eventos, gestión de grupos]
 author: ijoin.app
+language: es
 ---
 # La herramienta definitiva para organizar tu próxima ruta de senderismo o ciclismo
 

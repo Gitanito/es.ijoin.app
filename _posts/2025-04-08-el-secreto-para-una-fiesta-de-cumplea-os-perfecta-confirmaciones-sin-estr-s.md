@@ -4,6 +4,7 @@ title: El Secreto para una Fiesta de Cumpleaños Perfecta - Confirmaciones sin E
 subtitle: Organiza el cumpleaños de tu hijo sin logins ni apps - Maximiza la participación
 tags: [organización de eventos, confirmación de asistencia]
 author: ijoin.app
+language: es
 ---
 # ¡El Cumpleaños de tus Sueños! Confirma Asistencia sin Dolores de Cabeza
 

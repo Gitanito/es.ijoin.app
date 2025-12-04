@@ -4,6 +4,7 @@ title: Organiza Voluntarios para tu Mercadillo Escolar sin Estrés
 subtitle: La herramienta gratuita que multiplica la participación en la coordinación de eventos
 tags: [mercadillo escolar, coordinación de voluntarios]
 author: ijoin.app
+language: es
 ---
 # ¡Basta de Hojas de Cálculo! La Coordinación de Voluntarios para el Mercadillo Escolar Simplificada
 

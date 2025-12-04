@@ -4,6 +4,7 @@ title: Organiza Tareas Comunitarias sin Complicaciones
 subtitle: La herramienta gratuita que revoluciona la coordinación vecinal instantánea
 tags: [organización eventos, ayuda vecinal]
 author: ijoin.app
+language: es
 ---
 # El Secreto para Reunir a tus Vecinos en Minutos
 

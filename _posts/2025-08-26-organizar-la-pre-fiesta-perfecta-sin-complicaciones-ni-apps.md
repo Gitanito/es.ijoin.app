@@ -4,6 +4,7 @@ title: Organizar la Pre-Fiesta Perfecta - Sin Complicaciones ni Apps
 subtitle: La solución gratuita para confirmar asistencia a eventos privados y maximizar la participación
 tags: [organizacion-eventos, confirmacion-asistencia]
 author: ijoin.app
+language: es
 ---
 
 # El Secreto para una Pre-Fiesta de Concierto con Asistencia Máxima

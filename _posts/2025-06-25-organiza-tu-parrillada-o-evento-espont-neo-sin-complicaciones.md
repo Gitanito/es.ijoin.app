@@ -4,6 +4,7 @@ title: Organiza tu Parrillada o Evento Espontáneo sin Complicaciones
 subtitle: La herramienta definitiva para confirmar asistencia y coordinar tu fiesta al instante
 tags: [organización eventos, RSVP]
 author: ijoin.app
+language: es
 ---
 
 # ¡Se Acabaron los Caos de WhatsApp! Confirma Asistencia para tu Fiesta Instantánea

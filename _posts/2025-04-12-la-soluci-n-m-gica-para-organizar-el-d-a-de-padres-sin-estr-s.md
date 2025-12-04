@@ -4,6 +4,7 @@ title: La Solución Mágica para Organizar el Día de Padres sin Estrés
 subtitle: Maximiza la Asistencia al Día de Padres con Agendas Inteligentes y sin Registros
 tags: [elternsprechtag, organizacion escolar]
 author: ijoin.app
+language: es
 ---
 # ¡Adiós al Caos! Organiza la Agenda de Entrevistas del Día de Padres de Forma Impecable
 

@@ -4,6 +4,7 @@ title: El Secreto para Maximizar la Asistencia a tu Stammtisch Empresarial
 subtitle: Organiza Eventos de Networking Exitosos sin Complicaciones ni Registros
 tags: [networking, organizacion-eventos]
 author: ijoin.app
+language: es
 ---
 
 # De la Duda a la Asistencia Masiva- Así Organizarás tu Próximo Stammtisch Empresarial

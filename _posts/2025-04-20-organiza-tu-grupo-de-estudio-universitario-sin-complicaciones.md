@@ -4,6 +4,7 @@ title: Organiza tu Grupo de Estudio Universitario sin Complicaciones
 subtitle: Confirma Asistencia y Comparte Materiales para tu Próximo Examen
 tags: [organización eventos, grupos estudio]
 author: ijoin.app
+language: es
 ---
 
 # Confirma Asistencia a tu Grupo de Estudio Universitario en Segundos

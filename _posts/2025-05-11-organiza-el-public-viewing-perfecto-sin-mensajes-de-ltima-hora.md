@@ -4,6 +4,7 @@ title: Organiza el Public Viewing Perfecto - Sin Mensajes de Última Hora
 subtitle: Confirma Asistencia y Gestiona Cambios en Tiempo Real para Eventos Deportivos
 tags: [eventos deportivos, confirmación asistencia]
 author: ijoin.app
+language: es
 ---
 
 # La Fórmula Secreta para un Public Viewing Sin Complicaciones

@@ -4,6 +4,7 @@ title: Organiza Tu Beta Test Sin Fricción - Máxima Asistencia Garantizada
 subtitle: Olvídate de los emails de seguimiento - Confirma asistencia en segundos y sin registros
 tags: [organización de eventos, beta testing]
 author: ijoin.app
+language: es
 ---
 
 # El Secreto para Duplicar la Asistencia a Tu Sesión de Beta Testing

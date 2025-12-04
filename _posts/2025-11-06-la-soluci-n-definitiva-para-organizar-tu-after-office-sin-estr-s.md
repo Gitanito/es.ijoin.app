@@ -4,6 +4,7 @@ title: La Solución Definitiva para Organizar tu After Office sin Estrés
 subtitle: Maximiza la asistencia a tus eventos sociales con un solo enlace mágico
 tags: [organización de eventos, after office]
 author: ijoin.app
+language: es
 ---
 
 # El Secreto para Llenar la Nueva Barra - Confirmaciones de Asistencia sin Complicaciones

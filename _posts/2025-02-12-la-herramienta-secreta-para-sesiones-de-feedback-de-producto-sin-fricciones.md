@@ -4,6 +4,7 @@ title: La Herramienta Secreta para Sesiones de Feedback de Producto Sin Friccion
 subtitle: Maximiza la Asistencia a tus Sesiones de UX-UI con un Solo Enlace Mágico
 tags: [UX-UI, Eventos]
 author: ijoin.app
+language: es
 ---
 # Convierte Ideas en Oro Puro- Organiza Tu Sesión de Feedback UX-UI Definitiva
 

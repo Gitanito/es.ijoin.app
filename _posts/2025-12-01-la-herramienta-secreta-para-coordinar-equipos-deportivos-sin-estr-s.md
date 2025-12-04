@@ -4,6 +4,7 @@ title: La Herramienta Secreta para Coordinar Equipos Deportivos Sin Estrés
 subtitle: Maximiza la Asistencia a Entrenamientos y Partidos con un Solo Enlace
 tags: [coordinación deportiva, gestión de eventos]
 author: ijoin.app
+language: es
 ---
 
 # Deja de Perseguir Confirmaciones- El Futuro de la Gestión de Equipos Deportivos Juveniles

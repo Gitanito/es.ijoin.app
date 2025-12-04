@@ -4,6 +4,7 @@ title: Organiza tu Sesión de Co-Working en Segundos
 subtitle: Confirma Asistencia sin Complicaciones y Maximiza tu Productividad
 tags: [coworking, gestión-eventos]
 author: ijoin.app
+language: es
 ---
 
 # La Herramienta Secreta para Reuniones de Co-Working sin Fricción

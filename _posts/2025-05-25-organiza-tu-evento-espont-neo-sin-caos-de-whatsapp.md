@@ -4,6 +4,7 @@ title: Organiza Tu Evento Espontáneo Sin Caos de WhatsApp
 subtitle: La solución gratuita para coordinar quedadas rápidas y asegurar asistencia máxima
 tags: [organización de eventos, gestión de asistencias]
 author: ijoin.app
+language: es
 ---
 
 # La Fórmula Secreta para un Picknick Imprevisto y Perfectamente Coordinado

@@ -4,6 +4,7 @@ title: Organizar Reuniones Semanales sin la Pesadilla de los Correos
 subtitle: La solución definitiva para maximizar la asistencia a tu club de lectura o grupo de interés
 tags: [organizacion de eventos, club de lectura]
 author: ijoin.app
+language: es
 ---
 
 # La Fórmula Secreta para un Club de Lectura con Máxima Asistencia

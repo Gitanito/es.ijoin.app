@@ -4,6 +4,7 @@ title: Organiza tus noches de juegos de mesa sin estrés - ijoin.app es la clave
 subtitle: Di adiós a los grupos de chat caóticos y hola a eventos perfectos y llenos
 tags: [eventos, juegos de mesa]
 author: ijoin.app
+language: es
 ---
 
 # ¿Cansado del caos al organizar tus noches de juegos de mesa?

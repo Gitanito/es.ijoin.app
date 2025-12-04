@@ -4,6 +4,7 @@ title: Organiza las Rutas Escolares sin Complicaciones
 subtitle: La solución gratuita para coordinar el transporte de excursiones y eventos
 tags: [logística escolar,coordinación de eventos]
 author: ijoin.app
+language: es
 ---
 # ¡Adiós al Caos! Organiza las Rutas Escolares y Excursiones con Máxima Eficacia
 

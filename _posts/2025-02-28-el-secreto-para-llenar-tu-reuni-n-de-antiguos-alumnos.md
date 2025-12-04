@@ -4,6 +4,7 @@ title: El Secreto para Llenar tu Reunión de Antiguos Alumnos
 subtitle: Eventos de exalumnos sin complicaciones - la asistencia se dispara
 tags: [organización de eventos, alumni]
 author: ijoin.app
+language: es
 ---
 # Convoca a tus Antiguos Alumnos sin el Drama de la Confirmación
 

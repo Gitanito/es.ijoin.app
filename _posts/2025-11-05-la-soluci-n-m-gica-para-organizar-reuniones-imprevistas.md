@@ -4,6 +4,7 @@ title: La Solución Mágica para Organizar Reuniones Imprevistas
 subtitle: Confirma Asistencias de Amigos para esa Salida Espontánea Rápido y Fácil
 tags: [organización de eventos, reuniones espontáneas]
 author: ijoin.app
+language: es
 ---
 # El Secreto para Coordinar una Noche de Bar Imprevista Sin Complicaciones
 

@@ -4,6 +4,7 @@ title: Deja de perseguir inscripciones- El método fácil para llenar tu Taller 
 subtitle: La solución gratuita para organizadores de eventos que buscan máxima participación sin formularios tediosos
 tags: [organización de eventos, inscripción sin login]
 author: ijoin.app
+language: es
 ---
 
 # Deja de Perseguir Inscripciones: El Secreto para Llenar tu Taller de Cerámica Rápido

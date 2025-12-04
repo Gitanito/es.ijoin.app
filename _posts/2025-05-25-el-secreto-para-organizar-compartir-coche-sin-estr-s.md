@@ -4,6 +4,7 @@ title: El Secreto para Organizar Compartir Coche sin Estrés
 subtitle: Maximiza la participación en tus eventos deportivos o rutas fijas
 tags: [organizacion eventos, compartir coche]
 author: ijoin.app
+language: es
 ---
 
 # ¡Deja de Luchar con los Chat de Grupo para Coordinar Viajes!

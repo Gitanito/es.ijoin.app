@@ -4,6 +4,7 @@ title: Cómo Llenar Tu Evento Comunitario sin Complicaciones
 subtitle: El secreto para maximizar la asistencia a tu próxima lectura o taller
 tags: [eventos comunitarios, gestión de asistentes]
 author: ijoin.app
+language: es
 ---
 
 # El Fin del Caos en la Gestión de Asistentes para Tu Evento

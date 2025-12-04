@@ -4,6 +4,7 @@ title: Deja de Perder Invitados- La Solución para tus Eventos Recurrentes
 subtitle: Maximiza la Asistencia a tus Noches de Juegos o Reuniones Semanales
 tags: [organizacion de eventos, gestion de invitados]
 author: ijoin.app
+language: es
 ---
 # El Secreto para Llenar tu Próxima Noche de Juegos sin Estrés
 

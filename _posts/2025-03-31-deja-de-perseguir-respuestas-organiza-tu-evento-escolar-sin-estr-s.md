@@ -4,6 +4,7 @@ title: Deja de perseguir respuestas- Organiza tu evento escolar sin estrés
 subtitle: Maximiza la asistencia y simplifica la gestión de eventos con un solo enlace
 tags: [eventos escolares, organizacion de eventos]
 author: ijoin.app
+language: es
 ---
 # ¿Cansado de los interminables grupos de WhatsApp para organizar eventos escolares?
 

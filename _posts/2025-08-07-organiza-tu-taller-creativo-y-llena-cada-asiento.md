@@ -4,6 +4,7 @@ title: Organiza tu Taller Creativo y Llena cada Asiento
 subtitle: La solución gratuita para maximizar la asistencia a tus eventos sin pedir logins
 tags: [organización de eventos, gestión de talleres]
 author: ijoin.app
+language: es
 ---
 
 # La Fórmula Secreta para Llenar tu Próximo Taller de Dibujo o Workshop

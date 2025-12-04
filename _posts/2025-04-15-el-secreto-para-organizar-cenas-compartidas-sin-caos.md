@@ -4,6 +4,7 @@ title: El Secreto para Organizar Cenas Compartidas sin Caos
 subtitle: Maximiza la participación en tu Potluck-Dinner de forma gratuita y sin registros
 tags: [organización de eventos, cenas compartidas]
 author: ijoin.app
+language: es
 ---
 
 # ¡Adiós al Estrés de las Cenas Compartidas! Confirma Asistencia y Platos sin Complicaciones
